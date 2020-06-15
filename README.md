@@ -1,6 +1,6 @@
 # Papildoma užduotis
 
-• *Atsisiųsti kodą [realease]() *
+• *Atsisiųsti kodą [realease](https://github.com/ugniusado/additional_task/releases/tag/papildoma) *
 
 • *turėti C++ kompiliatorių , jei neturite įsidiegti*
 
